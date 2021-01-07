@@ -11,8 +11,8 @@ struct res : Identifiable {
     
     let name : String
     let nob : String
-    let hb : String
-    let Tpr : String
+    let hb : Int
+    let Tpr : Double
     
     var id = UUID()
     

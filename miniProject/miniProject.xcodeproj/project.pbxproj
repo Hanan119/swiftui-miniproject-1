@@ -13,6 +13,7 @@
 		302C3112259DA5D1002D0A4A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 302C3111259DA5D1002D0A4A /* ContentView.swift */; };
 		302C3114259DA5DC002D0A4A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 302C3113259DA5DC002D0A4A /* Assets.xcassets */; };
 		302C3117259DA5DC002D0A4A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 302C3116259DA5DC002D0A4A /* Preview Assets.xcassets */; };
+		30E5847725A5029400A09F75 /* View#3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30E5847625A5029200A09F75 /* View#3.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		302C3113259DA5DC002D0A4A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		302C3116259DA5DC002D0A4A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		302C3118259DA5DC002D0A4A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		30E5847625A5029200A09F75 /* View#3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "View#3.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +70,7 @@
 				302C310F259DA5D1002D0A4A /* miniProjectApp.swift */,
 				302C3111259DA5D1002D0A4A /* ContentView.swift */,
 				3009181725A24A9800AD5AEB /* BicycleDetails.swift */,
+				30E5847625A5029200A09F75 /* View#3.swift */,
 				302C3113259DA5DC002D0A4A /* Assets.xcassets */,
 				302C3118259DA5DC002D0A4A /* Info.plist */,
 				302C3115259DA5DC002D0A4A /* Preview Content */,
@@ -156,6 +159,7 @@
 				302C3112259DA5D1002D0A4A /* ContentView.swift in Sources */,
 				3009181525A223BB00AD5AEB /* bi.swift in Sources */,
 				302C3110259DA5D1002D0A4A /* miniProjectApp.swift in Sources */,
+				30E5847725A5029400A09F75 /* View#3.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
